@@ -1,0 +1,12 @@
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.deps.json
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.runtimeconfig.json
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.runtimeconfig.dev.json
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.dll
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\bin\Debug\netcoreapp2.0\AspNetCoreOnDocker.pdb
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.csproj.CoreCompileInputs.cache
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.AssemblyInfo.cs
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.dll
+C:\Mis Proyectos\docker\AspNetCoreOnDocker\obj\Debug\netcoreapp2.0\AspNetCoreOnDocker.pdb
